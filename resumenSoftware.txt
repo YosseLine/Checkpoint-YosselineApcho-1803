@@ -1,0 +1,4 @@
+Listar 3 ejemplos de software:
+1.- Sistemas operativos (Windows)
+2.- BIOS
+3.- Google chrome

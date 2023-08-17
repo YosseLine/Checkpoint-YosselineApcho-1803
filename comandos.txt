@@ -1,0 +1,35 @@
+Lista de comandos usados:
+
+1.- git clone https://github.com/YosseLine/Checkpoint-YosselineApcho-1803
+2.- cd Checkpoint-YosselineApcho-1803
+3.- touch main.js
+4.- touch index.html
+5.- git add .
+6.- git commit -m"commit 01 de YosselineApcho"
+7.- git push origin main
+8.- git branch feature
+9.- git checkout feature
+10.- mkdir Hardware
+11.- mkdir Software
+12.- mkdir SeguridadInformatica
+13.- cd Hardware
+14.- touch resumen.txt
+15.- cd ..
+16.- cd Software
+17.- touch resumen.txt
+18.- cd ..
+19.- cd SeguridadInformatica
+20.- touch resumen.txt
+21.- cd ..
+22.- git add .
+23.- git commit -m"commit 02 de YosselineApcho"
+24.- git push origin feature
+25.- git checkout main
+26.- mv main.js resumenHardware.txt
+27.- mv index.html resumenSoftware.txt
+28.- touch comandos.txt
+29.- git add .
+30.- git commit -m"commit 03 de YosselineApcho"
+31.- git push origin main
+
+
